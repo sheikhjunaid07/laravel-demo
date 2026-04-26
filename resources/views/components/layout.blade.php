@@ -1,3 +1,7 @@
+@props([
+"title" => "Junaid"
+])
+
 <!DOCTYPE html>
 <html lang="en">
 
